@@ -4,9 +4,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thiagoalmeida1905&bg_color=0d1117&color=00BFFF&line=FF00FF&point=FF00FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thiagoalmeida1905&show_icons=true&locale=en&title_color=00BFFF&icon_color=FF00FF&text_color=00BFFF&bg_color=0d1117" alt="thiago almeida stats" />
-</div>
 
 
 <div align="center"> 
